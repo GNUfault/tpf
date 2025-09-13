@@ -5,10 +5,10 @@ Control ThinkPad's fan speed easily with this shell script
 
 ## Install
 ```
-make install
+sudo make install
 ```
 
 ## Remove
 ```
-make remove
+sudo make remove
 ```
